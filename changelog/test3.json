@@ -1,0 +1,16 @@
+{
+    "title": "Lab 13",
+    "description": "Hello",
+    "environments": ["dev", "staging"],
+    "impact": ["service1", "auth"],
+    "contacts": [
+      "Med Mouine (med@kheops.dev)",
+      "John Doe (john@kheops.dev)"
+    ],
+    "schedule": {
+      "start": "Mercredi 30 Novembre 8:00",
+      "end": "Mercredi 30 Novembre 12:00"
+    },
+    "recommendations": "Monitorer l'état des services, rollback si besoin...",
+    "notify": ["SECURITY", "SUPPORT"]
+  }
